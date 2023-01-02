@@ -1,0 +1,14 @@
+div{
+    width: 300px;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 20px auto;
+}
+h1{
+    font-size: 40px;
+    color: rgb(69, 134, 0);
+}
+p{
+color: rgb(43, 168, 179);
+font-size: 20px;
+}
